@@ -1,4 +1,4 @@
-    Option Explicit
+Option Explicit
 Sub writeDataToWorksheet(resultset As ADODB.Recordset)
     Dim ws As Worksheet
     Dim f As ADODB.Field
